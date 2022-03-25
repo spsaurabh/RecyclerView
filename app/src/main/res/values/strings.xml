@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">hello</string>
+
+    <string-array name="Teams">
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Bangladesh</item>
+        <item>Afghanistan</item>
+        <item>NewZealand</item>
+        <item>Netherland</item>
+        <item>Ireland</item>
+        <item>Australia</item>
+    </string-array>
+</resources>
